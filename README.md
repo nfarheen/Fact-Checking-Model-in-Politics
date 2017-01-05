@@ -1,5 +1,4 @@
 # Fact-Checking-Model-in-Politics
-
 PolitiFact is a fact-checking website that rates the accuracy of claims by elected officials and others who speak up in American politics.
 My aim is to build a Machine learning model that can detect if a quote said by a politician is True or False. In doing so, this model 
 can be used to fact check quotes told by politicians in real time.
